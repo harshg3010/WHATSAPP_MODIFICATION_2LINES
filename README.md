@@ -1,0 +1,1 @@
+If You dont want to type the message then you can use your 2 lines of code to allocate what message you want to share and at what time also to whom. Its easy and based on pywhatkit package of the python. 
